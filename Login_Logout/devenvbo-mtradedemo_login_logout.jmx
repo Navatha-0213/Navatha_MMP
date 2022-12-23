@@ -117,7 +117,7 @@
       </ThreadGroup>
       <hashTree>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-          <stringProp name="filename">C:/Users/navvi/OneDrive/Desktop/web_API test/Scenarios_as_per_Babu_list/CSVdata/login_logout_100_600.csv</stringProp>
+          <stringProp name="filename">/home/ec2-user/workspace/Navatha_Git_Clone/Navatha_MMP/Login_Logout/login_logout_100_600.csv</stringProp>
           <stringProp name="fileEncoding">UTF-8</stringProp>
           <stringProp name="variableNames">userName,password</stringProp>
           <boolProp name="ignoreFirstLine">true</boolProp>
